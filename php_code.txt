@@ -1,0 +1,37 @@
+<?php
+
+$n=$_POST["fname"];
+$d=$_POST["dob"];
+$g=$_POST["gender"];
+$ph=$_POST["mobilenum"];
+$a=$_POST["address"];
+$pin=$_POST["pincode"];
+$eml=$_POST["email"];
+$pa=$_POST["psw"];
+$cpa=$_POST["psw-reenter"];
+
+$conn=mysqli_connect("localhost","root","","data");
+if ($conn)
+{
+
+if ($pa==$cpa)
+{
+    echo $pa;
+    $in="insert into details values('$n','$d','$g','$ph','$a','$pin','$eml','$pa')";
+    
+    $r=mysqli_query($conn,$in);
+    if ($r){
+        echo "connect";
+        header('location: Login.html');
+    }
+    else{
+        echo "error: " . $sql ."" . mysqli_error($conn);
+        echo "error";
+
+    }
+
+    
+}
+}
+mysqli_close($conn);
+?>

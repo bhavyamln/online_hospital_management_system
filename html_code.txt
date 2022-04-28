@@ -1,0 +1,477 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
+  <meta name="author" content="themefisher.com">
+
+  <title>ImAtU-OHMS</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="images/Logo_H1.jpeg" />
+
+  <!-- bootstrap.min css -->
+  <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+  <!-- Icon Font Css -->
+  <link rel="stylesheet" href="plugins/icofont/icofont.min.css">
+  <!-- Slick Slider  CSS -->
+  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
+  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body id="top">
+
+<header>
+	
+	<nav class="navbar navbar-expand-lg navigation" id="navbar">
+		<div class="container">
+		 	 <a class="navbar-brand" href="index.html">
+			  	<img src="images/Logo_H1.jpeg" alt="" class="img-fluid" height="90px" width="90px">
+			  </a>
+
+		  	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="icofont-navigation-menu"></span>
+		  </button>
+	  
+		  <div class="collapse navbar-collapse" id="navbarmain">
+			<ul class="navbar-nav ml-auto">
+			  <li class="nav-item active">
+				<a class="nav-link" href="index.html">Home</a>
+			  </li>
+			   <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+			    <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
+			    <li class="nav-item"><a class="nav-link" href="http://localhost/novena/themes/novena/Login.html">Appointments</a></li>
+			    <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog</a></li>
+			   
+			   <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+			   <li class="nav-item"><a class="nav-link" href="http://localhost/novena/themes/novena/Login.html"><button style="background-color:#e12454 ; border-radius :100px;color: white;">Login/Signup</button></a></li>
+			</ul>
+		  </div>
+		</div>
+	</nav>
+</header>
+	
+
+
+
+<!-- Slider Start -->
+<section class="banner">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-12 col-xl-7">
+				<div class="block">
+					<div class="divider mb-3"></div>
+					<span class="text-uppercase text-sm letter-spacing ">Total Health care solution</span>
+					<h1 class="mb-3 mt-3">Your most trusted health partner</h1>
+					
+					
+					<div class="btn-container ">
+						<a href="Login.html" class="btn btn-main-2 btn-icon btn-round-full">Make appointment <i class="icofont-simple-right ml-2  "></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="features">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="feature-block d-lg-flex">
+					<div class="feature-item mb-5 mb-lg-0">
+						<div class="feature-icon mb-4">
+							<i class="icofont-surgeon-alt"></i>
+						</div>
+						<span>24 Hours Service</span>
+						<h4 class="mb-3">Online Appoinment</h4>
+						<p class="mb-4">Get All time appointments for emergency.</p>
+						<a href="Login.html" class="btn btn-main btn-round-full">Make an appointment</a>
+					</div>
+				
+					<div class="feature-item mb-5 mb-lg-0">
+						<div class="feature-icon mb-4">
+							<i class="icofont-ui-clock"></i>
+						</div>
+						<span>Timely</span>
+						<h4 class="mb-3">User Friendly</h4>
+						<p class="mb-4">Make use of your valuable time not to waste in in-person appointments.Pre book your slot in online.</p>
+					</div>
+				
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section about">
+	<div class="container">
+		<div class="row align-items-center">
+			
+			<div class="col-lg-4 col-sm-6">
+				<div class="about-img mt-4 mt-lg-0">
+					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="about-content pl-4 mt-4 mt-lg-0">
+					<h2 class="title-color">Healthy living</h2>
+					<p class="mt-4 mb-5">We provide best leading medical services for you in our website.Just visit services sections to know more.</p>
+
+					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="cta-section ">
+	<div class="container">
+		<div class="cta position-relative">
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="counter-stat">
+						<i class="icofont-doctor"></i>
+						<span class="h3">5</span>k
+						<p>Happy People</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="counter-stat">
+						<i class="icofont-flag"></i>
+						<span class="h3">700</span>+
+						<p>Online bookings done</p>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="counter-stat">
+						<i class="icofont-badge"></i>
+						<span class="h3">20</span>+
+						<p>Hospitals</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="section testimonial-2 gray-bg">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7">
+				<div class="section-title text-center">
+					<h2>We served over 5000+ Patients</h2>
+					<div class="divider mx-auto my-4"></div>
+					<p> Some of the opinions  and suggestions taken form the users are given below.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-12 testimonial-wrap-2">
+				<div class="testimonial-block style-2  gray-bg">
+					
+
+					<div class="testimonial-thumb">
+						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+					</div>
+
+					<div class="client-info ">
+						<h4>Amazing service!</h4>
+						<span>Rahul</span>
+						<p>
+							They provide great service for the society during the pandemic time and I regularly used this environment for all of my needs.
+						</p>
+					</div>
+				</div>
+
+				
+
+				<div class="testimonial-block style-2  gray-bg">
+					<div class="testimonial-thumb">
+						<img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
+					</div>
+
+					<div class="client-info">
+						<h4>Good Support!</h4>
+						<span>Ramya</span>
+						<p>
+							This environment has supported me from booking appoinments and provided me the good services regarding medical records also. 
+						</p>
+					</div>
+					
+					
+				</div>
+
+				<div class="testimonial-block style-2  gray-bg">
+					<div class="testimonial-thumb">
+						<img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
+					</div>
+
+					<div class="client-info">
+						<h4>Nice Environment!</h4>
+						<span>Dravid</span>
+						<p class="mt-4">
+							The environment was so user friendly and portable. This helps in fulfilling all our needs and requirements.
+						</p>
+					</div>
+					
+				</div>
+
+				<div class="testimonial-block style-2  gray-bg">
+					<div class="testimonial-thumb">
+						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+					</div>
+
+					<div class="client-info">
+						<h4>Modern Service!</h4>
+						<span>Kavitha</span>
+						<p>
+							The services they provide are awesome and they use modern services for the better results and efficiency.
+						</p>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- footer Start -->
+<footer class="footer section gray-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 mr-auto col-sm-6">
+				<div class="widget mb-5 mb-lg-0">
+					<div class="logo mb-4">
+						<img src="images/Logo_H1.jpeg" alt="logo" class="img-fluid" height="100px" width="100px">
+					</div>
+					<p>This website is one of the best health care trusted partner.</p>
+
+					
+				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="widget widget-contact mb-5 mb-lg-0">
+					<h4 class="text-capitalize mb-3">Get in Touch</h4>
+					<div class="divider mb-4"></div>
+
+					<div class="footer-contact-block mb-4">
+						<div class="icon d-flex align-items-center">
+							<i class="icofont-email mr-3"></i>
+							<span class="h6 mb-0">Support Available for 24/7</span>
+						</div>
+						<h4 class="mt-2"><a href="">imatu24/7@email.com</a></h4>
+						<ul class="list-inline footer-socials mt-4">
+							<li class="list-inline-item"><a href=""><i class="icofont-facebook"></i></a></li>
+							<li class="list-inline-item"><a href=""><i class="icofont-twitter"></i></a></li>
+							<li class="list-inline-item"><a href=""><i class="icofont-linkedin"></i></a></li>
+						</ul>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer-btm py-4 mt-5">
+			<div class="row align-items-center justify-content-between">
+				<div class="col-lg-6">
+					<div class="copyright">
+						&copy; Copyright Reserved in <span class="text-color">2021</span>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
+						<form action="#" class="subscribe">
+							<input type="text" class="form-control" placeholder="Your Email address">
+							<a href="#" class="btn btn-main-2 btn-round-full">Subscribe</a>
+						</form>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-4">
+					<a class="backtop js-scroll-trigger" href="#top">
+						<i class="icofont-long-arrow-up"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+   
+
+    <!-- 
+    Essential Scripts
+    =====================================-->
+
+    
+    <!-- Main jQuery -->
+    <script src="plugins/jquery/jquery.js"></script>
+    <!-- Bootstrap 4.3.2 -->
+    <script src="plugins/bootstrap/js/popper.js"></script>
+    <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="plugins/counterup/jquery.easing.js"></script>
+    <!-- Slick Slider -->
+    <script src="plugins/slick-carousel/slick/slick.min.js"></script>
+    <!-- Counterup -->
+    <script src="plugins/counterup/jquery.waypoints.min.js"></script>
+    
+    <script src="plugins/shuffle/shuffle.min.js"></script>
+    <script src="plugins/counterup/jquery.counterup.min.js"></script>
+    <!-- Google Map -->
+    <script src="plugins/google-map/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>    
+    
+    <script src="js/script.js"></script>
+    <script src="js/contact.js"></script>
+
+  </body>
+  </html>
+   
+
+
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+font-family: Arial, Helvetica, sans-serif;;
+background: url("https://thumbs.dreamstime.com/z/medical-heart-healthcare-background-technology-science-red-ecg-159436351.jpg") no-repeat;
+}
+form{
+    width:fit-content;
+    padding: 60px;
+    height:fit-content;
+    margin:0 auto;
+    margin-top: 2%;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button{
+  background-color: #4CAF50;
+  color: white;
+  border: black;
+  cursor: pointer;
+  width: 60%;
+  margin: 5px auto;
+  padding: 15px;
+      box-shadow: 0px 5px 5px #ccc;
+      border-radius: 5px;
+      border-top: 1px solid #e9e9e9;
+  display:block;
+  text-align:center;
+}
+.signup{
+    background-color:blue;
+    margin-bottom:20px;
+}
+.login-box {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 15px;
+      background-color: #fff;
+      box-shadow: 0px 5px 5px #ccc;
+      border-radius: 5px;
+      border-top: 1px solid #e9e9e9;
+    }
+button:hover,#btn-signup:hover {
+  opacity: 0.8;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50px;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+h2,p{
+    text-align:center;
+}
+
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+ 
+}
+</style>
+</head>
+<body>
+
+   <form  action="che.php" method="post">
+    <center> <img src="images/Logo_H1.jpeg" alt="ImAtU" width="250" height="250" style="border-radius: 40px;"> </center>
+       <div class="container">
+        <label for="user id"><b>Email Id</b></label>
+          <input
+            type="email"
+            class="form-control"
+            id="" name="mail"
+            placeholder="Enter your Email id"
+                 required pattern='/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/'>
+
+           <label for="name"><b>Password</b</label>
+          <input
+            type="text"
+            class="form-control"
+            id="password" name="passw"
+            placeholder="Enter your password"
+                 required>
+       
+      <button type="submit">Login</button>
+      <!--<button type="button"
+          href="http://localhost/novena/themes/novena/signuppage.html"
+          class="signup" >
+            Sign Up
+        </button>-->
+        <a href="http://localhost/novena/themes/novena/signuppage.html"><button type="button" class="signup">signup</button></a>
+      <a href="http://localhost/novena/themes/novena/forgotpass.html">Forgot your password? </a>
+</div>
+</form>
+</body>
+</html>
+
+
+
